@@ -1,163 +1,164 @@
-,Opinion?,Paywall?,Notes,timestamp,score,Label,name,AdditionalData,attribute,value
-*.abc.net.au/*,Y*,N,,,,,,,,
-*.abcnews.go.com/*,N,N,,0x00061a149afa1693,1.0,,_include_,,original_url,abcnews.go.com
-*.afp.com/*,N,Y,,0x00061a14b25769e1,1.0,,_include_,,original_url,AFP.com
-*.aljazeera.com/*,Y / Y,N,,0x00061a14c4af03f4,1.0,,_include_,,original_url,Aljazeera.com
-*.americanpressinstitute.org/*,N,N,,,,,,,,
-*.amnesty.org/*,Y*?,N,,0x00061a14c4c64a8e,1.0,,_include_,,original_url,Amnesty.org
-*.apnews.com/*,N,N,,0x00061a149afa16db,1.0,,_include_,,original_url,APnews.com
-*.arstechnica.com/*,N,N,,0x00061a14c4f5ab72,1.0,,_include_,,original_url,arstechnica.com
-*.atlasobscura.com/articles*,Y / Y,N,,0x00061a14dd96bff9,1.0,,_include_,,original_url,https://*.atlasobscura.com/
-*.avclub.com/*,Y*,Y,,0x00061a14ddc1290b,1.0,,_include_,,original_url,avclub.com
-*.axios.com/*,Y*,N,,0x00061a149afa171b,1.0,,_include_,,original_url,Axios.com
-*.bbc.com/*,N,N,,0x00061a149afa1b12,1.0,,_include_,,original_url,bbc.com
-*.behindthevoiceactors.com/*,Y / Y,N,,0x00061a14dde818f2,1.0,,_include_,,original_url,https://*.behindthevoiceactors.com
-*.bellingcat.com/*,N,N,,0x00061a14ddfd8399,1.0,,_include_,,original_url,bellingcat.com
-*.bloomberg.com/*,Y,Y,,0x00061a149afa175c,1.0,,_include_,,original_url,Bloomberg.com
-*.burkespeerage.com/*,N,Y,,0x00061a14de142128,1.0,,_include_,,original_url,burkespeerage.com
-*.buzzfeednews.com/*,Y*,N,Can only filter by author,0x00061a14de2b8e0c,1.0,,_include_,,original_url,buzzfeednews.com
-*.calmatters.org/*,Y / Y,N,,,,,,,,
-*.cbc.ca/*,N,N,,,,,,,,
-*.cbsnews.com/*,N,N,,0x00061a149afa17c3,1.0,,_include_,,original_url,CBSnews.com
-*.channel4.com/*,N,N,,,,,,,,
-*.cjr.org/*,Y / Y,N,,,,,,,,
-*.climatefeedback.org/*,N,N,,0x00061a14de3f1bfb,1.0,,_include_,,original_url,climatefeedback.org
-*.cnn.com/*,Y / Y,N,,0x00061a149afa1803,1.0,,_include_,,original_url,CNN.com
-*.codastory.com/*,N,N,,0x00061a14de5294c4,1.0,,_include_,,original_url,codastory.com
-*.commonsensemedia.org/*,N,N,,0x00061a14de68ebe5,1.0,,_include_,,original_url,https://*.commonsensemedia.org
-*.csmonitor.com/*,Y,Y,,0x00061a149afa1b51,1.0,,_include_,,original_url,Csmonitor.com
-*.current.org/*,Y*,N?,,,,,,,,
-*.deadline.com/*,Y*,N,,0x00061a14deaa1366,1.0,,_include_,,original_url,deadline.com
-*.deseret.com/*,Y / Y,N,,0x00061a14debe5a0f,1.0,,_include_,,original_url,Deseret.com
-*.digitalspy.com/*,Y / Y,N,,0x00061a14deeab58a,1.0,,_include_,,original_url,digitalspy.com
-*.dw.com/*,Y / Y,N,,0x00061a14ded2b4e6,1.0,,_include_,,original_url,*.dw.com
-*.economist.com/*,Y,Y,,0x00061a14df123f76,1.0,,_include_,,original_url,economist.com
-*.editorandpublisher.com/*,N,N?,,,,,,,,
-*.efe.com/en/*,N?,N,,,,,,,,
-*.engadget.com/*,N?,N,,0x00061a14f3a802f4,1.0,,_include_,,original_url,*.engadget.com
-*.ew.com/*,Y / Y,N,,0x00061a14f3bd2adf,1.0,,_include_,,original_url,ew.com
-*.foreignaffairs.com/*,,Y,,,,,,,,
-*.foreignpolicy.com/*,Y*,Y,,,,,,,,
-*.france24.com/en/*,N?,N,,,,,,,,
-*.ft.com/*,Y*,Y,,0x00061a14f3d1d14c,1.0,,_include_,,original_url,ft.com
-*.fullfact.org/*,N,N,,0x00061a1531c0f6c7,1.0,,_include_,,original_url,fullfact.org
-*.gamedeveloper.com/*,Y*,N,,0x00061a14f3e6bffd,1.0,,_include_,,original_url,gamedeveloper.com
-*.gameinformer.com/*,N?,N,,0x00061a14f3fb7b35,1.0,,_include_,,original_url,*.gameinformer.com
-*.gijn.org/stories/*,N?,N,,,,,,,,
-*.gizmodo.com/*,N,N,Gizmodo bot only has 1 story,0x00061a14f422ef0b,1.0,,_include_,,original_url,Gizmodo.com
-*.gq.com/*,N,N,,0x00061a14f44722e5,1.0,,_include_,,original_url,gq.com
-*.grubstreet.com/*,Y,Y,,,,,,,,
-*.haaretz.com/*,Y,Y,,0x00061a14f4588074,1.0,,_include_,,original_url,haaretz.com
-*.hollywoodreporter.com/*,N,Y,,0x00061a14f4856c4e,1.0,,_include_,,original_url,hollywoodreporter.com
-*.idolator.com/*,Y*,N,Last reviewed in 2014…,0x00061a14f49b7b32,1.0,,_include_,,original_url,*.idolator.com
-*.illustrateddailynews.com/*,Y / Y,N,,,,,,,,
-*.indianexpress.com/*,Y,Y,Still able to criticize BJP?,0x00061a14f4d356d8,1.0,,_include_,,original_url,indianexpress.com
-*.inn.org/*,N?,N,,,,,,,,
-*.ipsnews.net/*,Y*,N,,0x00061a14f4f899c7,1.0,,_include_,,original_url,*.ipsnews.net
-*.iranicaonline.org/*,N,N,,0x00061a14f394b947,1.0,,_include_,,original_url,iranicaonline.org
-*.jamanetwork.com/*,Y*,Y,,0x00061a1531d790aa,1.0,,_include_,,original_url,jamanetwork.com
-*.journalismresearch.org/*,N,N,,,,,,,,
-*.kbs-america.com/*,N,N,,,,,,,,
-*.kirkusreviews.com/*,Y*,N,,0x00061a1531fe3ce3,1.0,,_include_,,original_url,kirkusreviews.com
-*.knightfoundation.org/*,N,N,,,,,,,,
-*.knpr.org/*,N,N,,,,,,,,
-*.kqed.org/*,Y / Y,N,,,,,,,,
-*.latimes.com/*,Y,Y,,0x00061a1532110518,1.0,,_include_,,original_url,latimes.com
-*.metacritic.com/*,Y*,N,,0x00061a15324a22e2,1.0,,_include_,,original_url,*.metacritic.com
-*.mg.co.za/*,Y,Y,,0x00061a15322379eb,1.0,,_include_,,original_url,*.mg.co.za
-*.mondediplo.com/*,Y,Y,,0x00061a15325e3744,1.0,,_include_,,original_url,https://mondediplo.com/
-*.motherjones.com/*,N,N,,0x00061a149afa154d,1.0,,_include_,,original_url,motherjones.com
-*.msnbc.com/*,Y / Y,N,,0x00061a149afa1590,1.0,,_include_,,original_url,MSNBC.com
-*.nationalgeographic.com/*,Y,Y,,0x00061a1532728128,1.0,,_include_,,original_url,nationalgeographic.com
-*.nature.com/*,Y*,Y,,,,,,,,
-*.nbcnews.com/*,Y / Y,N,,0x00061a149afa1895,1.0,,_include_,,original_url,nbcnews.com
-*.newrepublic.com/*,N,N,,0x00061a15328a2aa5,1.0,,_include_,,original_url,newrepublic.com
-*.news.sky.com/*,Y*,N,,0x00061a15343f2351,1.0,,_include_,,original_url,news.sky.com
-*.newslaundry.com/*,N,N,,0x00061a1532db0d9a,1.0,,_include_,,original_url,newslaundry.com
-*.newyorker.com/*,Y*,Y,,0x00061a149afa15d1,1.0,,_include_,,original_url,Newyorker.com
-*.niemanlab.org/*,N,N,,,,,,,,
-*.nme.com/*,N,N,,0x00061a1532f174c4,1.0,,_include_,,original_url,*.nme.com
-*.npr.org/*,Y / Y,N,,0x00061a149afa1922,1.0,,_include_,,original_url,npr.org
-*.nydailynews.com/*,Y*,Y,,0x00061a1532b3c9be,1.0,,_include_,,original_url,*.nydailynews.com
-*.nymag.com/*,Y*,Y,,0x00061a1532a144a3,1.0,,_include_,,original_url,nymag.com
-*.nytimes.com/*,Y,Y,,0x00061a149afa18e5,1.0,,_include_,,original_url,nytimes.com
-*.nzherald.co.nz/*,Y,Y,Seems sensationalist - propose reevaluation?,0x00061a1532c57066,1.0,,_include_,,original_url,nzherald.co.nz
-*.oko.press/*,Y*,N,,0x00061a153304f104,1.0,,_include_,,original_url,OKO.press
-*.opensecrets.org/*,N,N,,,,,,,,
-*.pbcjamaica.org/*,N,N,,,,,,,,
-*.pbs.org/*,N,N,,,,,,,,
-*.people.com/*,N,N,,0x00061a1533184d11,1.0,,_include_,,original_url,people.com
-*.pewresearch.org/*,N,N,,0x00061a15332a967c,1.0,,_include_,,original_url,pewresearch.org
-*.philanthropy.com/*,Y*,Y,,,,,,,,
-*.pmn.co.nz/*,N?,N,,,,,,,,
-*.politico.com/*,Y*,N,,0x00061a149afa1962,1.0,,_include_,,original_url,politico.com
-*.politifact.com/*,N,N,,0x00061a14b26af10c,1.0,,_include_,,original_url,Politifact.com
-*.polygon.com/*,N,N,,0x00061a1533673c92,1.0,,_include_,,original_url,polygon.com
-*.poynter.org/*,Y / Y,N,,,,,,,,
-*.propublica.org/*,N,N,,0x00061a149afa19ab,1.0,,_include_,,original_url,propublica.org
-*.pulitzercenter.org/*,Y / Y,N,,,,,,,,
-*.qz.com/*,Y,Y,,0x00061a15337ddcab,1.0,,_include_,,original_url,qz.com
-*.rappler.com/*,Y / Y,N,,0x00061a1533ab057e,1.0,,_include_,,original_url,rappler.com
-*.reason.com/*,Y* / Y*,N,,0x00061a149afa1ca4,1.0,,_include_,,original_url,reason.com
-*.religionnews.com/*,Y*,N,,0x00061a1533d7feae,1.0,,_include_,,original_url,https://religionnews.com
-*.reuters.com/*,Y*,N,,0x00061a149afa1be4,1.0,,_include_,,original_url,reuters.com
-*.rfa.org/*,Y / Y,N,,0x00061a153393ab08,1.0,,_include_,,original_url,rfa.org
-*.rnz.co.nz/*,Y / Y,N,,,,,,,,
-*.rottentomatoes.com/*,Y / Y,N,,0x00061a186c0eec97,1.0,,_include_,,original_url,*.rottentomatoes.com
-*.rte.ie/,Y / Y,N,,0x00061a1533edc0a0,1.0,,_include_,,original_url,https://*.rte.ie/
-*.rtvslo.si/radio-si*,N,N,,,,,,,,
-*.sbs.com.au/*,N,N,,,,,,,,
-*.science.org/*,Y,Y,,,,,,,,
-*.sciencebasedmedicine.org/*,Y*,N,Some member-only posts,0x00061a153402a259,1.0,,_include_,,original_url,*.sciencebasedmedicine.org
-*.scientificamerican.com/,Y*,Y,,0x00061a1534186f2d,1.0,,_include_,,original_url,https://*.scientificamerican.com/
-*.scotusblog.com/*,Y*,N,,0x00061a15342b0791,1.0,,_include_,,original_url,scotusblog.com
-*.sfchronicle.com/*,Y,Y,,,,,,,,
-*.smh.com.au/*,Y*,Y,,0x00061a153481026c,1.0,,_include_,,original_url,smh.com.au
-*.snopes.com/*,N,N,,0x00061a14b27ea83e,1.0,,_include_,,original_url,Snopes.com
-*.spiegel.de/*,Y,Y,,0x00061a15346cf2e8,1.0,,_include_,,original_url,spiegel.de
-*.splcenter.org/*,N?,N,,,,,,,,
-*.swissinfo.ch/eng/*,Y / Y,N,,,,,,,,
-*.telegraph.co.uk/*,Y*,Y,,0x00061a14de9614d2,1.0,,_include_,,original_url,telegraph.co.uk
-*.texastribune.org/*,N,N,,,,,,,,
-*.theage.com.au/*,Y*,Y,,0x00061a14bd461414,1.0,,_include_,,original_url,theage.com.au
-*.theatlantic.com/*,Y,Y,,0x00061a149afa13fb,1.0,,_include_,,original_url,*.theatlantic.com
-*.theaustralian.com.au/*,Y*,Y,Murdoch,0x00061a14ddab6cc4,1.0,,_include_,,original_url,*.theaustralian.com.au
-*.theconversation.com/*,Y*?,N,,0x00061a14de804781,1.0,,_include_,,original_url,theconversation.com
-*.thecut.com/*,Y*,Y,,,,,,,,
-*.thediplomat.com/*,Y*,Y,,0x00061a14defe74c9,1.0,,_include_,,original_url,thediplomat.com
-*.theglobeandmail.com/*,Y,Y,,0x00061a14f4354ee7,1.0,,_include_,,original_url,theglobeandmail.com
-*.theguardian.com/*,Y / Y,N,,0x00061a149afa1842,1.0,,_include_,,original_url,theguardian.com
-*.thehill.com/*,Y / Y,N,,0x00061a149afa1c26,1.0,,_include_,,original_url,thehill.com
-*.thehindu.com/*,Y,Y,Still able to criticize BJP?,0x00061a14f46f54d8,1.0,,_include_,,original_url,thehindu.com
-*.theintercept.com/*,N,N,,0x00061a149afa14ca,1.0,,_include_,,original_url,*.theintercept.com
-*.thelancet.com/*,?,Y,,,,,,,,
-*.themarysue.com/*,Y*,N,,0x00061a15323561bb,1.0,,_include_,,original_url,*.themarysue.com
-*.thenation.com/*,Y*,Y,,0x00061a149afa1614,1.0,,_include_,,original_url,thenation.com
-*.thepinknews.com/*,Y*,N,,0x00061a15333f089e,1.0,,_include_,,original_url,thepinknews.com
-*.theregister.com/*,Y / Y,N,,0x00061a1533c0f876,1.0,,_include_,,original_url,*.theregister.com
-*.thetimes.co.uk/*,Y,Y?,,,,,,,,
-*.theverge.com/*,N,N,,0x00061a1534e83a82,1.0,,_include_,,original_url,theverge.com
-*.thewire.in/*,Y*,N,Still able to criticize BJP?,0x00061a1535384433,1.0,,_include_,,original_url,thewire.in
-*.time.com/*,Y*,Y,,0x00061a149afa19ec,1.0,,_include_,,original_url,Time.com
-*.torrentfreak.com/*,Y*,N,,,,,,,,
-*.towcenter.columbia.edu/*,N,N,Is there indexable content here? Or mostly links to other sites?,,,,,,,
-*.tvnz.co.nz/*,N,N,,,,,,,,
-*.usatoday.com/*,Y,Y,,0x00061a149afa1a7d,1.0,,_include_,,original_url,usatoday.com
-*.usnews.com/*,Y / Y,N,,0x00061a1534950b92,1.0,,_include_,,original_url,usnews.com
-*.vanityfair.com/*,N,Y,,0x00061a1534ab8123,1.0,,_include_,,original_url,vanityfair.com
-*.variety.com/*,Y / Y,N,,0x00061a1534be4d1b,1.0,,_include_,,original_url,variety.com
-*.venturebeat.com/*,N,Y,,0x00061a1534d2b310,1.0,,_include_,,original_url,venturebeat.com
-*.voanews.com/*,N,N,,0x00061a15351103bb,1.0,,_include_,,original_url,voanews.com
-*.vogue.com/*,Y*,Y,,0x00061a1534fc98da,1.0,,_include_,,original_url,vogue.com
-*.vox.com/*,Y / Y,N,,0x00061a149afa1654,1.0,,_include_,,original_url,Vox.com
-*.vulture.com/*,N,Y,,,,,,,,
-*.wabe.org/*,N,N,,,,,,,,
-*.washingtonpost.com/*,Y,Y,,0x00061a149afa1a2c,1.0,,_include_,,original_url,washingtonpost.com
-*.wfae.org/*,Y / Y,N,,,,,,,,
-*.whyy.org/*,Y*,N,,,,,,,,
-*.wired.co.uk/*,Y*,Y,,0x00061a1535652a44,1.0,,_include_,,original_url,wired.co.uk
-*.wired.com/*,Y*,Y,,0x00061a15354f6780,1.0,,_include_,,original_url,wired.com
-*.wnyc.org/*,N?,N,,,,,,,,
-*.wsj.com/*,Y*,Y,,0x00061a149afa1c64,1.0,,_include_,,original_url,WSJ.com
-*.wyborcza.pl/*,Y*,Y,Seems sensationalist,0x00061a14f40e9b0e,1.0,,_include_,,original_url,wyborcza.pl
-*.yle.fi/news/*,N,N,,,,,,,,
+,Opinion?,Paywall?,<annotation about=“,”<label name=_include_”></Label></Annotation>,Notes,timestamp,score,Label,name,AdditionalData,attribute,value
+*.abc.net.au/*,Y*,N,,,,,,,,,,
+*.abcnews.go.com/*,N,N,,,,0x00061a149afa1693,1.0,,_include_,,original_url,abcnews.go.com
+*.afp.com/*,N,Y,,,,0x00061a14b25769e1,1.0,,_include_,,original_url,AFP.com
+*.aljazeera.com/*,Y / Y,N,,,,0x00061a14c4af03f4,1.0,,_include_,,original_url,Aljazeera.com
+*.americanpressinstitute.org/*,N,N,,,,,,,,,,
+*.amnesty.org/*,Y*?,N,,,,0x00061a14c4c64a8e,1.0,,_include_,,original_url,Amnesty.org
+*.apnews.com/*,N,N,,,,0x00061a149afa16db,1.0,,_include_,,original_url,APnews.com
+*.arte.tv/en/*,N,N,,,,,,,,,,
+*.arstechnica.com/*,N,N,,,,0x00061a14c4f5ab72,1.0,,_include_,,original_url,arstechnica.com
+*.atlasobscura.com/articles*,Y / Y,N,,,,0x00061a14dd96bff9,1.0,,_include_,,original_url,https://*.atlasobscura.com/
+*.avclub.com/*,Y*,Y,,,,0x00061a14ddc1290b,1.0,,_include_,,original_url,avclub.com
+*.axios.com/*,Y*,N,,,,0x00061a149afa171b,1.0,,_include_,,original_url,Axios.com
+*.bbc.com/*,N,N,,,,0x00061a149afa1b12,1.0,,_include_,,original_url,bbc.com
+*.behindthevoiceactors.com/*,Y / Y,N,,,,0x00061a14dde818f2,1.0,,_include_,,original_url,https://*.behindthevoiceactors.com
+*.bellingcat.com/*,N,N,,,,0x00061a14ddfd8399,1.0,,_include_,,original_url,bellingcat.com
+*.bloomberg.com/*,Y,Y,,,,0x00061a149afa175c,1.0,,_include_,,original_url,Bloomberg.com
+*.burkespeerage.com/*,N,Y,,,,0x00061a14de142128,1.0,,_include_,,original_url,burkespeerage.com
+*.buzzfeednews.com/*,Y*,N,,,Can only filter by author,0x00061a14de2b8e0c,1.0,,_include_,,original_url,buzzfeednews.com
+*.calmatters.org/*,Y / Y,N,,,,,,,,,,
+*.cbc.ca/*,N,N,,,,,,,,,,
+*.cbsnews.com/*,N,N,,,,0x00061a149afa17c3,1.0,,_include_,,original_url,CBSnews.com
+*.channel4.com/*,N,N,,,,,,,,,,
+*.cjr.org/*,Y / Y,N,,,,,,,,,,
+*.climatefeedback.org/*,N,N,,,,0x00061a14de3f1bfb,1.0,,_include_,,original_url,climatefeedback.org
+*.cnn.com/*,Y / Y,N,,,,0x00061a149afa1803,1.0,,_include_,,original_url,CNN.com
+*.codastory.com/*,N,N,,,,0x00061a14de5294c4,1.0,,_include_,,original_url,codastory.com
+*.commonsensemedia.org/*,N,N,,,,0x00061a14de68ebe5,1.0,,_include_,,original_url,https://*.commonsensemedia.org
+*.csmonitor.com/*,Y,Y,,,,0x00061a149afa1b51,1.0,,_include_,,original_url,Csmonitor.com
+*.current.org/*,Y*,N?,,,,,,,,,,
+*.deadline.com/*,Y*,N,,,,0x00061a14deaa1366,1.0,,_include_,,original_url,deadline.com
+*.deseret.com/*,Y / Y,N,,,,0x00061a14debe5a0f,1.0,,_include_,,original_url,Deseret.com
+*.digitalspy.com/*,Y / Y,N,,,,0x00061a14deeab58a,1.0,,_include_,,original_url,digitalspy.com
+*.dw.com/*,Y / Y,N,,,,0x00061a14ded2b4e6,1.0,,_include_,,original_url,*.dw.com
+*.economist.com/*,Y,Y,,,,0x00061a14df123f76,1.0,,_include_,,original_url,economist.com
+*.editorandpublisher.com/*,N,N?,,,,,,,,,,
+*.efe.com/en/*,N?,N,,,,,,,,,,
+*.engadget.com/*,N?,N,,,,0x00061a14f3a802f4,1.0,,_include_,,original_url,*.engadget.com
+*.ew.com/*,Y / Y,N,,,,0x00061a14f3bd2adf,1.0,,_include_,,original_url,ew.com
+*.foreignaffairs.com/*,,Y,,,,,,,,,,
+*.foreignpolicy.com/*,Y*,Y,,,,,,,,,,
+*.france24.com/en/*,N?,N,,,,,,,,,,
+*.ft.com/*,Y*,Y,,,,0x00061a14f3d1d14c,1.0,,_include_,,original_url,ft.com
+*.fullfact.org/*,N,N,,,,0x00061a1531c0f6c7,1.0,,_include_,,original_url,fullfact.org
+*.gamedeveloper.com/*,Y*,N,,,,0x00061a14f3e6bffd,1.0,,_include_,,original_url,gamedeveloper.com
+*.gameinformer.com/*,N?,N,,,,0x00061a14f3fb7b35,1.0,,_include_,,original_url,*.gameinformer.com
+*.gijn.org/stories/*,N?,N,,,,,,,,,,
+*.gizmodo.com/*,N,N,,,Gizmodo bot only has 1 story,0x00061a14f422ef0b,1.0,,_include_,,original_url,Gizmodo.com
+*.gq.com/*,N,N,,,,0x00061a14f44722e5,1.0,,_include_,,original_url,gq.com
+*.grubstreet.com/*,Y,Y,,,,,,,,,,
+*.haaretz.com/*,Y,Y,,,,0x00061a14f4588074,1.0,,_include_,,original_url,haaretz.com
+*.hollywoodreporter.com/*,N,Y,,,,0x00061a14f4856c4e,1.0,,_include_,,original_url,hollywoodreporter.com
+*.idolator.com/*,Y*,N,,,Last reviewed in 2014…,0x00061a14f49b7b32,1.0,,_include_,,original_url,*.idolator.com
+*.illustrateddailynews.com/*,Y / Y,N,,,,,,,,,,
+*.indianexpress.com/*,Y,Y,,,Still able to criticize BJP?,0x00061a14f4d356d8,1.0,,_include_,,original_url,indianexpress.com
+*.inn.org/*,N?,N,,,,,,,,,,
+*.ipsnews.net/*,Y*,N,,,,0x00061a14f4f899c7,1.0,,_include_,,original_url,*.ipsnews.net
+*.iranicaonline.org/*,N,N,,,,0x00061a14f394b947,1.0,,_include_,,original_url,iranicaonline.org
+*.jamanetwork.com/*,Y*,Y,,,,0x00061a1531d790aa,1.0,,_include_,,original_url,jamanetwork.com
+*.journalismresearch.org/*,N,N,,,,,,,,,,
+*.kbs-america.com/*,N,N,,,,,,,,,,
+*.kirkusreviews.com/*,Y*,N,,,,0x00061a1531fe3ce3,1.0,,_include_,,original_url,kirkusreviews.com
+*.knightfoundation.org/*,N,N,,,,,,,,,,
+*.knpr.org/*,N,N,,,,,,,,,,
+*.kqed.org/*,Y / Y,N,,,,,,,,,,
+*.latimes.com/*,Y,Y,,,,0x00061a1532110518,1.0,,_include_,,original_url,latimes.com
+*.metacritic.com/*,Y*,N,,,,0x00061a15324a22e2,1.0,,_include_,,original_url,*.metacritic.com
+*.mg.co.za/*,Y,Y,,,,0x00061a15322379eb,1.0,,_include_,,original_url,*.mg.co.za
+*.mondediplo.com/*,Y,Y,,,,0x00061a15325e3744,1.0,,_include_,,original_url,https://mondediplo.com/
+*.motherjones.com/*,N,N,,,,0x00061a149afa154d,1.0,,_include_,,original_url,motherjones.com
+*.msnbc.com/*,Y / Y,N,,,,0x00061a149afa1590,1.0,,_include_,,original_url,MSNBC.com
+*.nationalgeographic.com/*,Y,Y,,,,0x00061a1532728128,1.0,,_include_,,original_url,nationalgeographic.com
+*.nature.com/*,Y*,Y,,,,,,,,,,
+*.nbcnews.com/*,Y / Y,N,,,,0x00061a149afa1895,1.0,,_include_,,original_url,nbcnews.com
+*.newrepublic.com/*,N,N,,,,0x00061a15328a2aa5,1.0,,_include_,,original_url,newrepublic.com
+*.news.err.ee/*,?,N,,,,,,,,,,
+*.news.sky.com/*,Y*,N,,,,0x00061a15343f2351,1.0,,_include_,,original_url,news.sky.com
+*.newslaundry.com/*,N,N,,,,0x00061a1532db0d9a,1.0,,_include_,,original_url,newslaundry.com
+*.newyorker.com/*,Y*,Y,,,,0x00061a149afa15d1,1.0,,_include_,,original_url,Newyorker.com
+*.niemanlab.org/*,N,N,,,,,,,,,,
+*.nme.com/*,N,N,,,,0x00061a1532f174c4,1.0,,_include_,,original_url,*.nme.com
+*.npr.org/*,Y / Y,N,,,,0x00061a149afa1922,1.0,,_include_,,original_url,npr.org
+*.nydailynews.com/*,Y*,Y,,,,0x00061a1532b3c9be,1.0,,_include_,,original_url,*.nydailynews.com
+*.nymag.com/*,Y*,Y,,,,0x00061a1532a144a3,1.0,,_include_,,original_url,nymag.com
+*.nytimes.com/*,Y,Y,,,,0x00061a149afa18e5,1.0,,_include_,,original_url,nytimes.com
+*.nzherald.co.nz/*,Y,Y,,,Seems sensationalist - propose reevaluation?,0x00061a1532c57066,1.0,,_include_,,original_url,nzherald.co.nz
+*.oko.press/*,Y*,N,,,,0x00061a153304f104,1.0,,_include_,,original_url,OKO.press
+*.opensecrets.org/*,N,N,,,,,,,,,,
+*.pbcjamaica.org/*,N,N,,,,,,,,,,
+*.pbs.org/*,N,N,,,,,,,,,,
+*.people.com/*,N,N,,,,0x00061a1533184d11,1.0,,_include_,,original_url,people.com
+*.philanthropy.com/*,Y*,Y,,,,,,,,,,
+*.pmn.co.nz/*,N?,N,,,,,,,,,,
+*.politico.com/*,Y*,N,,,,0x00061a149afa1962,1.0,,_include_,,original_url,politico.com
+*.politifact.com/*,N,N,,,,0x00061a14b26af10c,1.0,,_include_,,original_url,Politifact.com
+*.polygon.com/*,N,N,,,,0x00061a1533673c92,1.0,,_include_,,original_url,polygon.com
+*.poynter.org/*,Y / Y,N,,,,,,,,,,
+*.propublica.org/*,N,N,,,,0x00061a149afa19ab,1.0,,_include_,,original_url,propublica.org
+*.pulitzercenter.org/*,Y / Y,N,,,,,,,,,,
+*.qz.com/*,Y,Y,,,,0x00061a15337ddcab,1.0,,_include_,,original_url,qz.com
+*.rappler.com/*,Y / Y,N,,,,0x00061a1533ab057e,1.0,,_include_,,original_url,rappler.com
+*.reason.com/*,Y* / Y*,N,,,,0x00061a149afa1ca4,1.0,,_include_,,original_url,reason.com
+*.religionnews.com/*,Y*,N,,,,0x00061a1533d7feae,1.0,,_include_,,original_url,https://religionnews.com
+*.reuters.com/*,Y*,N,,,,0x00061a149afa1be4,1.0,,_include_,,original_url,reuters.com
+*.rfa.org/*,Y / Y,N,,,,0x00061a153393ab08,1.0,,_include_,,original_url,rfa.org
+*.rnz.co.nz/*,Y / Y,N,,,,,,,,,,
+*.rottentomatoes.com/*,Y / Y,N,,,,0x00061a186c0eec97,1.0,,_include_,,original_url,*.rottentomatoes.com
+*.rte.ie/,Y / Y,N,,,,0x00061a1533edc0a0,1.0,,_include_,,original_url,https://*.rte.ie/
+*.rtvslo.si/radio-si*,N,N,,,,,,,,,,
+*.sbs.com.au/*,N,N,,,,,,,,,,
+*.science.org/*,Y,Y,,,,,,,,,,
+*.sciencebasedmedicine.org/*,Y*,N,,,Some member-only posts,0x00061a153402a259,1.0,,_include_,,original_url,*.sciencebasedmedicine.org
+*.scientificamerican.com/,Y*,Y,,,,0x00061a1534186f2d,1.0,,_include_,,original_url,https://*.scientificamerican.com/
+*.scotusblog.com/*,Y*,N,,,,0x00061a15342b0791,1.0,,_include_,,original_url,scotusblog.com
+*.sfchronicle.com/*,Y,Y,,,,,,,,,,
+*.smh.com.au/*,Y*,Y,,,,0x00061a153481026c,1.0,,_include_,,original_url,smh.com.au
+*.snopes.com/*,N,N,,,,0x00061a14b27ea83e,1.0,,_include_,,original_url,Snopes.com
+*.spiegel.de/*,Y,Y,,,,0x00061a15346cf2e8,1.0,,_include_,,original_url,spiegel.de
+*.splcenter.org/*,N?,N,,,,,,,,,,
+*.swissinfo.ch/eng/*,Y / Y,N,,,,,,,,,,
+*.telegraph.co.uk/*,Y*,Y,,,,0x00061a14de9614d2,1.0,,_include_,,original_url,telegraph.co.uk
+*.texastribune.org/*,N,N,,,,,,,,,,
+*.theage.com.au/*,Y*,Y,,,,0x00061a14bd461414,1.0,,_include_,,original_url,theage.com.au
+*.theatlantic.com/*,Y,Y,,,,0x00061a149afa13fb,1.0,,_include_,,original_url,*.theatlantic.com
+*.theaustralian.com.au/*,Y*,Y,,,Murdoch,0x00061a14ddab6cc4,1.0,,_include_,,original_url,*.theaustralian.com.au
+*.theconversation.com/*,Y*?,N,,,,0x00061a14de804781,1.0,,_include_,,original_url,theconversation.com
+*.thecut.com/*,Y*,Y,,,,,,,,,,
+*.thediplomat.com/*,Y*,Y,,,,0x00061a14defe74c9,1.0,,_include_,,original_url,thediplomat.com
+*.theglobeandmail.com/*,Y,Y,,,,0x00061a14f4354ee7,1.0,,_include_,,original_url,theglobeandmail.com
+*.theguardian.com/*,Y / Y,N,,,,0x00061a149afa1842,1.0,,_include_,,original_url,theguardian.com
+*.thehill.com/*,Y / Y,N,,,,0x00061a149afa1c26,1.0,,_include_,,original_url,thehill.com
+*.thehindu.com/*,Y,Y,,,Still able to criticize BJP?,0x00061a14f46f54d8,1.0,,_include_,,original_url,thehindu.com
+*.theintercept.com/*,N,N,,,,0x00061a149afa14ca,1.0,,_include_,,original_url,*.theintercept.com
+*.thelancet.com/*,?,Y,,,,,,,,,,
+*.themarysue.com/*,Y*,N,,,,0x00061a15323561bb,1.0,,_include_,,original_url,*.themarysue.com
+*.thenation.com/*,Y*,Y,,,,0x00061a149afa1614,1.0,,_include_,,original_url,thenation.com
+*.thepinknews.com/*,Y*,N,,,,0x00061a15333f089e,1.0,,_include_,,original_url,thepinknews.com
+*.theregister.com/*,Y / Y,N,,,,0x00061a1533c0f876,1.0,,_include_,,original_url,*.theregister.com
+*.thetimes.co.uk/*,Y,Y?,,,,,,,,,,
+*.theverge.com/*,N,N,,,,0x00061a1534e83a82,1.0,,_include_,,original_url,theverge.com
+*.thewire.in/*,Y*,N,,,Still able to criticize BJP?,0x00061a1535384433,1.0,,_include_,,original_url,thewire.in
+*.time.com/*,Y*,Y,,,,0x00061a149afa19ec,1.0,,_include_,,original_url,Time.com
+*.torrentfreak.com/*,Y*,N,,,,,,,,,,
+*.towcenter.columbia.edu/*,N,N,,,Is there indexable content here? Or mostly links to other sites?,,,,,,,
+*.tvnz.co.nz/*,N,N,,,,,,,,,,
+*.usatoday.com/*,Y,Y,,,,0x00061a149afa1a7d,1.0,,_include_,,original_url,usatoday.com
+*.usnews.com/*,Y / Y,N,,,,0x00061a1534950b92,1.0,,_include_,,original_url,usnews.com
+*.vanityfair.com/*,N,Y,,,,0x00061a1534ab8123,1.0,,_include_,,original_url,vanityfair.com
+*.variety.com/*,Y / Y,N,,,,0x00061a1534be4d1b,1.0,,_include_,,original_url,variety.com
+*.venturebeat.com/*,N,Y,,,,0x00061a1534d2b310,1.0,,_include_,,original_url,venturebeat.com
+*.voanews.com/*,N,N,,,,0x00061a15351103bb,1.0,,_include_,,original_url,voanews.com
+*.vogue.com/*,Y*,Y,,,,0x00061a1534fc98da,1.0,,_include_,,original_url,vogue.com
+*.vox.com/*,Y / Y,N,,,,0x00061a149afa1654,1.0,,_include_,,original_url,Vox.com
+*.vulture.com/*,N,Y,,,,,,,,,,
+*.wabe.org/*,N,N,,,,,,,,,,
+*.washingtonpost.com/*,Y,Y,,,,0x00061a149afa1a2c,1.0,,_include_,,original_url,washingtonpost.com
+*.wfae.org/*,Y / Y,N,,,,,,,,,,
+*.whyy.org/*,Y*,N,,,,,,,,,,
+*.wired.co.uk/*,Y*,Y,,,,0x00061a1535652a44,1.0,,_include_,,original_url,wired.co.uk
+*.wired.com/*,Y*,Y,,,,0x00061a15354f6780,1.0,,_include_,,original_url,wired.com
+*.wnyc.org/*,N?,N,,,,,,,,,,
+*.wsj.com/*,Y*,Y,,,,0x00061a149afa1c64,1.0,,_include_,,original_url,WSJ.com
+*.wyborcza.pl/*,Y*,Y,,,Seems sensationalist,0x00061a14f40e9b0e,1.0,,_include_,,original_url,wyborcza.pl
+*.yle.fi/news/*,N,N,,,,,,,,,,
