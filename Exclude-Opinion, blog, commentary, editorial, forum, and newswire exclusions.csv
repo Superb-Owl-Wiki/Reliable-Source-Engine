@@ -51,7 +51,6 @@ https://projects.propublica.org/527-explorer/expenditures*
 *.rottentomatoes.com/*type=user*
 *.rottentomatoes.com/*type=verified_audience*
 *.rte.ie/brainstorm*
-*.seattletimes.com/opinion/*
 *.sfchronicle.com/opinion/*
 *.sfgate.com/politics-op-eds/*
 *.spiegel.de/*opinion*
@@ -100,3 +99,9 @@ www.pbs.org/newshour/tag/*
 https://www.afp.com/en/search/*
 testing.afp.com/*
 www.afp.com/fr/*
+www.dw.com/de/*
+www.dw.com/ro/*
+www.bbc.com/turkce/*
+www.theage.com.au/topic/*
+www.bbc.com/portuguese/*
+www.vanityfair.com/topic/*

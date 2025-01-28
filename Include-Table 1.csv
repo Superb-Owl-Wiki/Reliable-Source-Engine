@@ -60,7 +60,6 @@ Sites to search,Reliability,Oped?,Pay?,Notes,timestamp,score,Label,name,Addition
 *.journalismresearch.org/*,,N,N,,,,,,,,
 *.kbs-america.com/*,State Media Monitor,N,N,,,,,,,,
 *.kirkusreviews.com/*,Perennial,Y*,N,,0x00061a1531fe3ce3,1.0,,_include_,,original_url,kirkusreviews.com
-*.knightfoundation.org/*,,N,N,,,,,,,,
 *.knpr.org/*,INN,N,N,,,,,,,,
 *.kqed.org/*,INN,Y / Y,N,,,,,,,,
 *.latimes.com/*,Perennial,Y,Y,,0x00061a1532110518,1.0,,_include_,,original_url,latimes.com
