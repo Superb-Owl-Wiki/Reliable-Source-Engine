@@ -1,4 +1,3 @@
-Opinion, blog, commentary, editorial, forum, and newswire exclusions
 *.abcnews.go.com/*wireStory*
 *.aljazeera.com/opinion*
 *.arstechnica.com/civis*
