@@ -39,8 +39,8 @@ Opinion, blog, commentary, editorial, forum, and newswire exclusions
 *.nzherald.co.nz/*opinion*
 *.poynter.org/*opinion*
 *.poynter.org/newsletters/*
-*projects.propublica.org/nonprofits/*
-https://www.motherjones.com/*/page/*
+https://projects.propublica.org/nonprofits/*
+*.motherjones.com/*/page/*
 https://projects.propublica.org/527-explorer/expenditures*
 *.pulitzercenter.org/*opinion*
 *.reason.com/people*
